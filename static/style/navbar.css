@@ -12,11 +12,19 @@
     flex-direction: row;
     column-gap: 15vh;
 
+    width: 100%;
     align-items: center;
     background: linear-gradient(77.63deg, rgba(186, 204, 240, 0.5) 8.99%, rgba(203, 214, 235, 0.5) 50.42%, rgba(186, 204, 240, 0.5) 91.01%);
     border-radius: 15px;
-    padding: 6px 15px 6px 15px;
+    padding: 2px 6px 2px 6px;
     color: white;
+}
+
+#footer_buttons > button {
+    /* outline: red solid 1px; */
+    background-color: #5e78ab;
+    border-radius: 10px;
+    padding: 3px 4px 3px 4px;
 }
 
 @media only screen and (max-width: 320px) {
