@@ -4,7 +4,7 @@
         "&nbsp&#8226;<markie>vhSense</markie> is a student utility created by me, aiming to <markie>reduce the learning curve of using our school’s current infrastructure</markie>. Currently in <markie>“Unified Redesigning #2”</markie>, the application is expected to <markie>fully launch by Q2, 2025</markie>",
         "HTML-CSS-JS, Tailwind CSS; Python, Flask, Pandas",
         false,
-        "https://vhsense.nogisoftwork.fun"
+        false
     ],
     "Google TV Beta": [
         "/static/elements/google-tv-beta-icon.png",
