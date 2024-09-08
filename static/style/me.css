@@ -60,7 +60,7 @@ markie {
 .blob {
     width: 100%;
     height: 100%;
-    background-image: url(/static/elements/mii.png);
+    background-image: url(/static/elements/mii-highres.png);
     background-repeat: no-repeat;
     background-size: cover;
     border-radius: 32% 68% 62% 38% / 43% 29% 71% 57%;
@@ -192,8 +192,13 @@ markie {
     #normal_techStack {
         display: none;
     }
+
 }
 @media only screen and (min-width: 640px) { /* lol... */
+    .blob {
+        background-image: url(/static/elements/mii-lowres.png);
+    }
+
     #about-me-text {
         font-size: 58px;
         line-height: 1;
@@ -256,6 +261,10 @@ markie {
     }
 }
 @media only screen and (min-width: 1024px) {
+    .blob {
+        background-image: url(/static/elements/mii-midres.png);
+    }
+
     #about-me-text {
         font-size: 69px;
     }
@@ -294,6 +303,10 @@ markie {
     }
 }
 @media only screen and (min-width:1536px) {
+    .blob {
+        background-image: url(/static/elements/mii-highres.png);
+    }
+
     #about-me_short-list > svg {
         scale: 1.2;
     }
@@ -313,6 +326,10 @@ markie {
     #_photo-and-fulldetail {
         height: 80%;
     }
+    #__photo-and-contactinfo {
+        scale: 1.03;
+    }
+
     #about-me-full-detail {
         font-size: 30px;
     }

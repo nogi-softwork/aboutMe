@@ -1,0 +1,16 @@
+{
+    "vhSense": [
+        "/static/elements/vhsense-icon.png",
+        "&nbsp&#8226;<markie>vhSense</markie> is a student utility created by me, aiming to <markie>reduce the learning curve of using our school’s current infrastructure</markie>. Currently in <markie>“Unified Redesigning #2”</markie>, the application is expected to <markie>fully launch by Q2, 2025</markie>",
+        "HTML-CSS-JS, Tailwind CSS; Python, Flask, Pandas",
+        false,
+        "https://vhsense.nogisoftwork.fun"
+    ],
+    "Google TV Beta": [
+        "/static/elements/google-tv-beta-icon.png",
+        "&nbsp&#8226;<markie>Google TV Beta</markie> is a personal project started by me, the project is all about <markie>recreating</markie> a popular hoax “How to Sign Up for GoogleTV Beta” by “infinitesolution” in 2007- then <markie>repurposed as a YouTube Client</markie> with <markie>YouTube playback</markie> capability. ",
+        "HTML-CSS-JS, Tailwind CSS, YouTube API V3",
+        "https://github.com/closebridge/google-tv-beta",
+        "https://googlebeta.pages.dev/"
+    ]
+}
